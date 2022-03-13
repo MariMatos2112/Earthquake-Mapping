@@ -1,0 +1,3 @@
+01) Understand map projections: a way to put into 2d the Earth sphere, which is in 3d. We're going to use 'Web Mercator'
+02) Grab a map image from 'Map Box', understand what projection it's using, so I can convert the latitude and longitude into an x and y pixel location.
+
